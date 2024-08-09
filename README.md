@@ -1,4 +1,4 @@
-# # Golang RabbitMQ Consumer
+# Golang RabbitMQ Consumer
 [![My Skills](https://skillicons.dev/icons?i=golang,rabbitmq)](https://skillicons.dev)
 
 O RabbitMQ é um message broker altamente consolidado e utilizado por quem trabalha com comunicação entre sistemas. Operando de forma assíncrona, ele age como um intermediário que processa as nossas mensagens entre produtores e consumidores, além de contar com filas que possuem diversas opções de encaminhamento.
