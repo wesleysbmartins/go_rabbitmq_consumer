@@ -111,18 +111,14 @@ Para testar estou utilizando uma extensão do VSCode que are conexões com banco
 Mensagem de exemplo:
 ```json
 {
-	"sale":{
-        "sellingCompany": "Magalu",
-        "product": "Notebook Lenovo",
-        "price": "R$2.255,90",
-        "deliveryCompany": "Correios",
-        "originAddress": "Alameda Santos - Cerqueira César, São Paulo - SP, 01418-970",
-        "destinationAddress": "Parque da Independência - Ipiranga, São Paulo - SP, 04263-000",
-        "clientName": "João da Silva",
-        "order": 123456789
-    },
-    "appId": "postman collection",
-    "userId": "postman runner"
+    "sellingCompany": "Magalu",
+    "product": "Notebook Lenovo",
+    "price": "R$2.255,90",
+    "deliveryCompany": "Correios",
+    "originAddress": "Alameda Santos - Cerqueira César, São Paulo - SP, 01418-970",
+    "destinationAddress": "Parque da Independência - Ipiranga, São Paulo - SP, 04263-000",
+    "clientName": "João da Silva",
+    "order": 123456789
 }
 ```
 
