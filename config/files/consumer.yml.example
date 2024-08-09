@@ -1,0 +1,27 @@
+exchange: {
+  name: "exchange-name",
+  kind: "direct",
+  durable: false,
+  auto-delete: false,
+  internal: false,
+  no-wait: false,
+  args: [],
+  bind: ""
+}
+queue: {
+  name: "queue-name",
+  durable: false,
+  exclusive: false,
+  auto-delete: false,
+  no-wait: false,
+  args: [],
+  bind: ""
+}
+consumer: {
+  name: "consumer-name",
+  auto-ack: false,
+  exclusive: false,
+  no-local: false,
+  no-wait: false,
+  args: {}
+}

@@ -1,0 +1,4 @@
+host:     "<host do rabbitmq>"
+port:     5672
+user:     "<usuário do rabbitmq>"
+password: "<senha do rabbitmq>"
