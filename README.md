@@ -131,3 +131,5 @@ Ao enviar a mensagem, o resultado no seu terminal deverá ser semelhante a este:
 Message: [RoutingKey: sale-queue, Consumer: sale-consumer, Delivery: 1, Count: 0]
  Sale: [Order: 123456789, Product: Notebook Lenovo, Company: Magalu, Client:João da Silva]
 ```
+
+Sendo assim, você tem uma aplicação Golang consumindo dados de uma fila do RabbitMQ.
